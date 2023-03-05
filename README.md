@@ -3,8 +3,8 @@
 ![](https://jsd.cdn.zzko.cn/gh/Letget/License-plate-recognition-based-on-Python-OpenCV@master/display/blue.jpg)
 蓝色车牌
 
-https://jsd.cdn.zzko.cn/gh/Letget/License-plate-recognition-based-on-Python-OpenCV@master/display/green.jpg
+![](https://jsd.cdn.zzko.cn/gh/Letget/License-plate-recognition-based-on-Python-OpenCV@master/display/green.jpg)
 绿色车牌
 
-https://jsd.cdn.zzko.cn/gh/Letget/License-plate-recognition-based-on-Python-OpenCV@master/display/yellow.jpg
+![](https://jsd.cdn.zzko.cn/gh/Letget/License-plate-recognition-based-on-Python-OpenCV@master/display/yellow.jpg)
 黄色车牌
