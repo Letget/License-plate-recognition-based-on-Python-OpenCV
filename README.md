@@ -12,7 +12,8 @@
 
 ## 效果展示
 
-<font color="red"> 蓝色</font>
+
+``` 蓝色车牌```<br />
 <img src="https://jsd.cdn.zzko.cn/gh/Letget/License-plate-recognition-based-on-Python-OpenCV@master/display/blue.jpg" width="50%">
 
 ```绿色车牌```<br />
